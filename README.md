@@ -1,4 +1,4 @@
-# Crypto App with Bloc Patter
+# Crypto App with Bloc Pattern
 
 #### Pull to refresh
 
